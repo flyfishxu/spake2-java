@@ -1,3 +1,0 @@
-include ":java"
-include ":android"
-rootProject.name = "Spake2"

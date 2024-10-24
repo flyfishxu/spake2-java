@@ -1,4 +1,13 @@
-.idea/
-.gradle/
+*.iml
+.gradle
+.idea
 .DS_Store
-build/
+build
+captures
+.externalNativeBuild
+.cxx
+local.properties
+xcuserdata
+.kotlin/*
+
+kotlin-js-store/
